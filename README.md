@@ -11,6 +11,8 @@
 ⛵️ Looking for opportunities to travel
 
 ***
+Social media:
+
 <center width="100%">
   <a href="https://www.instagram.com/baartke">
   <img align="center" alt="Baartke's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
